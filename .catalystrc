@@ -1,0 +1,35 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": 5390000000055006,
+      "name": "Catly",
+      "domain": {
+        "id": 10026473282,
+        "name": "catly-739078521.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "739078521",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ],
+  "migration": {
+    "1.4.0": {
+      "completed": true
+    },
+    "last_success": "1.4.0"
+  }
+}
